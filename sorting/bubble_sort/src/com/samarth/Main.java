@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-        int[] arr={34,67,90,1,3,2,100};
+        int[] arr={3,2,5,4,1};
         sort(arr);
     }
 
