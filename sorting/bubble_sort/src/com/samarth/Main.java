@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-        int[] arr={1,2,3,4,5};
+        int[] arr={23,45,1,2,7,81};
         bubble_sort(arr);
         System.out.println(Arrays.toString(arr));
     }
